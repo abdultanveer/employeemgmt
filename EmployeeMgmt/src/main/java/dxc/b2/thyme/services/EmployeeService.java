@@ -1,7 +1,7 @@
-package dxc.b2.services;
+package dxc.b2.thyme.services;
 import java.util.List;
 
-import dxc.b2.model.Employee;
+import dxc.b2.thyme.model.Employee;
 
 
 

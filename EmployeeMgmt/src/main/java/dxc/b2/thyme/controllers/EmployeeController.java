@@ -1,4 +1,4 @@
-package dxc.b2.controllers;
+package dxc.b2.thyme.controllers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import dxc.b2.model.Employee;
-import dxc.b2.services.EmployeeService;
+import dxc.b2.thyme.model.Employee;
+import dxc.b2.thyme.services.EmployeeService;
 
 
 

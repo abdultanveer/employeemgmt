@@ -1,12 +1,12 @@
-package dxc.b2.services;
+package dxc.b2.thyme.services;
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import dxc.b2.model.Employee;
-import dxc.b2.repository.EmployeeRepository;
+import dxc.b2.thyme.model.Employee;
+import dxc.b2.thyme.repository.EmployeeRepository;
 
 
 

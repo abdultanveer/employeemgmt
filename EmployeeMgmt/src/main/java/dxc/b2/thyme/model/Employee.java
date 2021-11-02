@@ -1,4 +1,4 @@
-package dxc.b2.model;
+package dxc.b2.thyme.model;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
